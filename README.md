@@ -20,11 +20,17 @@ have a list of paid proxys that work or you want to buy some proxys. Second opti
 
 *HOW TO INSTALL*
 git clone https://github/beephole/multa-annorum
+
 cd multa-annorum
+
 pip install -r requirements.txt
+
 python generateAccount.py - for free proxies
+
 or
+
 python proxyGenerateAccount.py - for paid proxies
+
 
 
 
