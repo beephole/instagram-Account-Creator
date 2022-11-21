@@ -97,7 +97,7 @@ while noOfAcc > i:
     proxy = rand_proxy()
     chrome_options.add_argument(f"--proxy-server={proxy}")
     url = "https://www.instagram.com/accounts/emailsignup/"
-    PATH = "C:\Program Files (x86)\chromedriver\chromedriver.exe"
+    PATH = "C:\Program Files (x86)\chromedriver.exe"
     browser = webdriver.Chrome(PATH, options=chrome_options)
     browser.get(url)
     print(rand_proxy())
