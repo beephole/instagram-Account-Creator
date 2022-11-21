@@ -24,15 +24,18 @@ have a list of paid proxys that work or you want to buy some proxys. Second opti
 *HOW TO INSTALL*
 ```      
 git clone https://github.com/beephole/instagram-Account-Creator.git
-
+```
+```
 cd  instagram-Account-Creator
-
+```
+```
 pip install -r requirements.txt
-
+```
+```
 python generateAccount.py - for free proxies
-
+```
 or
-
+```
 python proxyGenerateAccount.py - for paid proxies
 
 ```
@@ -67,7 +70,7 @@ https://user-images.githubusercontent.com/118709832/202999434-39890d61-acd6-4632
 
 
 
-4. For Paid Proxies(With Authentication) - open proxyGenerateAccount.py script and enter details maually
+4. For Paid Proxies(With Authentication) - open proxyGenerateAccount.py script and enter details manually
 
    PROXY_HOST = "129.150.19.177" # rotating proxy or host
    
