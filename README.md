@@ -1,5 +1,5 @@
-# Instagram-Account-Creator
-Instagram-MultiAccountCreator
+# **Instagram-Account-Creator**
+
 
 
 THIS BOT IS FOR FUN AND EDUCATIONAL PURPOSES PLEASE BE NICE WITH IT!
@@ -21,7 +21,9 @@ have a list of paid proxys that work or you want to buy some proxys. Second opti
 
 
 
-*HOW TO INSTALL*
+
+
+## *HOW TO INSTALL*
 ```      
 git clone https://github.com/beephole/instagram-Account-Creator.git
 ```
@@ -49,18 +51,20 @@ https://user-images.githubusercontent.com/118709832/202999434-39890d61-acd6-4632
 
 
 
-*WORK TO BE DONE BEFORE STARTING THE BOT*
+
+
+### **WORK TO BE DONE BEFORE STARTING THE BOT**
 
 1. Download Chromedriver(Check for Version of Chromedriver and your Chrome Browser it should be the same)
 
 2. Check your Chromedriver PATH and edit with your PATH at the script
 
-   line 103 - generateAccount.py
+   > line 103 - generateAccount.py
    
-   line 80 - proxyGenerateAccount.py
+   > line 80 - proxyGenerateAccount.py
    
-   Ex. Download Chromedriver and move it from downloads to Program Files (x86) 
-   and the PATH should be ok!
+   > Ex. Download Chromedriver and move it from downloads to Program Files (x86) 
+   > and the PATH should be ok!
    
    
 
@@ -72,13 +76,13 @@ https://user-images.githubusercontent.com/118709832/202999434-39890d61-acd6-4632
 
 4. For Paid Proxies(With Authentication) - open proxyGenerateAccount.py script and enter details manually
 
-   PROXY_HOST = "129.150.19.177" # rotating proxy or host
+   > PROXY_HOST = "129.150.19.177" # rotating proxy or host
    
-   PROXY_PORT = 15323 # port
+   > PROXY_PORT = 15323 # port
    
-   PROXY_USER = "proxyusername" # username
+   > PROXY_USER = "proxyusername" # username
    
-   PROXY_PASS = "proxypassword" # password
+   > PROXY_PASS = "proxypassword" # password
    
    
    
@@ -94,6 +98,6 @@ https://user-images.githubusercontent.com/118709832/202999434-39890d61-acd6-4632
    You have to have over 5 proxys , the bot will choose a random proxy each time a account is being created !
 5. REMEMBER YOU HAVE TO GO TO YOUR VIRTUAL EMAIL MAILBOX TO CHECK THE CONFIRMATION CODE AND ENTER IT MANUALLY!
 
-"I’m always doing things I can’t do. That’s how I get to do them."
+> "I’m always doing things I can’t do. That’s how I get to do them. :+1:"
 
-btc: 137L6AWxzsJ5eqsptGZx2yEfuznR9qntk3
+> btc: 137L6AWxzsJ5eqsptGZx2yEfuznR9qntk3
