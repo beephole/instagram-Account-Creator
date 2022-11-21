@@ -77,7 +77,7 @@ chrome.webRequest.onAuthRequired.addListener(
 
 
 def get_chromedriver(use_proxy=False, user_agent=None):
-    path = "C:\Program Files (x86)\chromedriver\chromedriver.exe"
+    path = "C:\Program Files (x86)\chromedriver.exe"
     chrome_options = webdriver.ChromeOptions()
     if use_proxy:
         pluginfile = "proxy_auth_plugin.zip"
