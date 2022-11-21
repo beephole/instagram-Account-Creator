@@ -34,7 +34,11 @@ python proxyGenerateAccount.py - for paid proxies
 
 
 
-https://user-images.githubusercontent.com/118709832/202994933-e986db61-82e2-490f-9424-a256944d9ebd.mp4
+
+https://user-images.githubusercontent.com/118709832/202999434-39890d61-acd6-4632-9188-4e6e002f9eb8.mp4
+
+
+
 
 
 
