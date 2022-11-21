@@ -1,4 +1,4 @@
-# instagram-Account-Creato
+# Instagram-Account-Creator
 Instagram-MultiAccountCreator
 
 
