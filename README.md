@@ -22,7 +22,7 @@ have a list of paid proxys that work or you want to buy some proxys. Second opti
 
 
 *HOW TO INSTALL*
-
+```      
 git clone https://github.com/beephole/instagram-Account-Creator.git
 
 cd  instagram-Account-Creator
@@ -35,7 +35,7 @@ or
 
 python proxyGenerateAccount.py - for paid proxies
 
-
+```
 
 
 https://user-images.githubusercontent.com/118709832/202999434-39890d61-acd6-4632-9188-4e6e002f9eb8.mp4
