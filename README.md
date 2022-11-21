@@ -44,9 +44,10 @@ python proxyGenerateAccount.py - for paid proxies
    line 103 - generateAccount.py
    
    line 80 - proxyGenerateAccount.py
+   
    Ex. Download Chromedriver and move it from downloads to Program Files (86) 
    and the PATH should be ok!
-   PATH = "C:\Program Files (x86)\chromedriver.exe"
+   
    
 
 3. Generate virtual Emails at websites like https://tenmail.org and copy-paste them at Emails.txt
