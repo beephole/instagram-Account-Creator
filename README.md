@@ -6,6 +6,7 @@ THIS BOT IS FOR FUN AND EDUCATIONAL PURPOSES PLEASE BE NICE WITH IT!
 
 A bot that Creates Accounts for Instagram!
 It Automatically Authenticates the Proxy with Webdriver Selenium by Autofilling the Pop-up Login tab of Proxy !!
+![image](https://user-images.githubusercontent.com/118709832/203000078-fcbdd70e-ea17-4c28-9a97-cea8197843d6.png)
 
 Hi there ! This is a selenium bot that Creates Instagram Accounts . It saves the credentials in a .txt file !
 
