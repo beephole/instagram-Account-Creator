@@ -1,4 +1,4 @@
-# Instagram-Account-Creator
+x# Instagram-Account-Creator
 Instagram-MultiAccountCreator
 
 
@@ -45,7 +45,7 @@ python proxyGenerateAccount.py - for paid proxies
    
    line 80 - proxyGenerateAccount.py
    
-   Ex. Download Chromedriver and move it from downloads to Program Files (86) 
+   Ex. Download Chromedriver and move it from downloads to Program Files (x86) 
    and the PATH should be ok!
    
    
