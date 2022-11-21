@@ -34,6 +34,10 @@ python proxyGenerateAccount.py - for paid proxies
 
 
 
+https://user-images.githubusercontent.com/118709832/202994933-e986db61-82e2-490f-9424-a256944d9ebd.mp4
+
+
+
 
 *WORK TO BE DONE BEFORE STARTING THE BOT*
 
