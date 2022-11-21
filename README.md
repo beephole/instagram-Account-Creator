@@ -56,6 +56,9 @@ https://user-images.githubusercontent.com/118709832/202994933-e986db61-82e2-490f
 
 3. Generate virtual Emails at websites like https://tenmail.org and copy-paste them at Emails.txt
    (You want to get the Confirmation Code from IG, virtual Email is the easiest way!)
+![image](https://user-images.githubusercontent.com/118709832/202995562-e15f668f-aec8-422d-bba2-8a4e0daf992b.png)
+
+
 
 4. For Paid Proxies(With Authentication) - open proxyGenerateAccount.py script and enter details maually
 
@@ -69,7 +72,8 @@ https://user-images.githubusercontent.com/118709832/202994933-e986db61-82e2-490f
    
    
    
-   
+   ![image](https://user-images.githubusercontent.com/118709832/202996061-18e79d0f-6d4c-4235-a9b5-68ceebdf0b7d.png)
+
 
 *PAY ATTENTION*
 
