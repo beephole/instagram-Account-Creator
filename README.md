@@ -20,9 +20,10 @@ have a list of paid proxys that work or you want to buy some proxys. Second opti
 
 *HOW TO INSTALL*
 
-git clone https://github.com/beephole/multa-annorum
+git clone https://github.com/beephole/instagram-Account-Creator.git
+instagram-Account-Creator
 
-cd multa-annorum
+cd  instagram-Account-Creator
 
 pip install -r requirements.txt
 
