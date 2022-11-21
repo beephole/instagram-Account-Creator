@@ -40,17 +40,25 @@ python proxyGenerateAccount.py - for paid proxies
 1. Download Chromedriver(Check for Version of Chromedriver and your Chrome Browser it should be the same)
 
 2. Check your Chromedriver PATH and edit with your PATH at the script
+
    line 103 - generateAccount.py
+   
    line 80 - proxyGenerateAccount.py
+   
 
 3. Generate virtual Emails at websites like https://tenmail.org and copy-paste them at Emails.txt
    (You want to get the Confirmation Code from IG, virtual Email is the easiest way!)
 
 4. For Paid Proxies(With Authentication) - open proxyGenerateAccount.py script and enter details maually
+
    PROXY_HOST = "129.150.19.177" # rotating proxy or host
+   
    PROXY_PORT = 15323 # port
+   
    PROXY_USER = "proxyusername" # username
+   
    PROXY_PASS = "proxypassword" # password
+   
    
    
    
