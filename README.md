@@ -16,15 +16,19 @@ test them if they Work. If yes the Ip is going to be added on the proxylist.txt 
 As we know free proxys usually DO NOT WORK but in order to rotate requests with different proxys to the Website you have to
 have a list of paid proxys that work or you want to buy some proxys. Second option is the right One.
 
-_HOW TO INSTALL_
-git clone https://github/
-cd ig
+
+
+*HOW TO INSTALL*
+git clone https://github/beephole/multa-annorum
+cd multa-annorum
 pip install -r requirements.txt
 python generateAccount.py - for free proxies
 or
 python proxyGenerateAccount.py - for paid proxies
 
-_WORK TO BE DONE BEFORE STARTING THE BOT_
+
+
+*WORK TO BE DONE BEFORE STARTING THE BOT*
 
 1. Download Chromedriver(Check for Version of Chromedriver and your Chrome Browser it should be the same)
 
@@ -40,8 +44,11 @@ _WORK TO BE DONE BEFORE STARTING THE BOT_
    PROXY_PORT = 15323 # port
    PROXY_USER = "proxyusername" # username
    PROXY_PASS = "proxypassword" # password
+   
+   
+   
 
-_PAY ATTENTION_
+*PAY ATTENTION*
 
 1. New Username is saved at username.txt
 2. Free Proxys are added to proxylist.txt and then choosen randomly .
@@ -51,4 +58,5 @@ _PAY ATTENTION_
 5. REMEMBER YOU HAVE TO GO TO YOUR VIRTUAL EMAIL MAILBOX TO CHECK THE CONFIRMATION CODE AND ENTER IT MANUALLY!
 
 "I’m always doing things I can’t do. That’s how I get to do them."
+
 btc: 137L6AWxzsJ5eqsptGZx2yEfuznR9qntk3
